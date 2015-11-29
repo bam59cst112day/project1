@@ -1,5 +1,8 @@
 ///Project 1
  ///By : Ana Collantes
+ 
+ //BAM:  Project #1 is OK.
+ 
  float circleX;
  float circleY;
  float rectX;
